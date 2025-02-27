@@ -1,20 +1,20 @@
 [
 {
   "directory": "E:/ugujvjgh/build",
-  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c E:\\ugujvjgh\\planning_main.cpp",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\src\\pnc_map.cpp.obj -c E:\\ugujvjgh\\src\\pnc_map.cpp",
+  "file": "E:/ugujvjgh/src/pnc_map.cpp",
+  "output": "CMakeFiles/common.dir/src/pnc_map.cpp.obj"
+},
+{
+  "directory": "E:/ugujvjgh/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\src\\process.cpp.obj -c E:\\ugujvjgh\\src\\process.cpp",
+  "file": "E:/ugujvjgh/src/process.cpp",
+  "output": "CMakeFiles/common.dir/src/process.cpp.obj"
+},
+{
+  "directory": "E:/ugujvjgh/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/planning_main.dir/includes_CXX.rsp -g -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c E:\\ugujvjgh\\planning_main.cpp",
   "file": "E:/ugujvjgh/planning_main.cpp",
   "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
-},
-{
-  "directory": "E:/ugujvjgh/build",
-  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\planning_main.dir\\pnc_map.cpp.obj -c E:\\ugujvjgh\\pnc_map.cpp",
-  "file": "E:/ugujvjgh/pnc_map.cpp",
-  "output": "CMakeFiles/planning_main.dir/pnc_map.cpp.obj"
-},
-{
-  "directory": "E:/ugujvjgh/build",
-  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\planning_main.dir\\process.cpp.obj -c E:\\ugujvjgh\\process.cpp",
-  "file": "E:/ugujvjgh/process.cpp",
-  "output": "CMakeFiles/planning_main.dir/process.cpp.obj"
 }
 ]

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/ugujvjgh/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c E:\\ugujvjgh\\planning_main.cpp",
+  "file": "E:/ugujvjgh/planning_main.cpp",
+  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "E:/ugujvjgh/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\planning_main.dir\\pnc_map.cpp.obj -c E:\\ugujvjgh\\pnc_map.cpp",
+  "file": "E:/ugujvjgh/pnc_map.cpp",
+  "output": "CMakeFiles/planning_main.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "E:/ugujvjgh/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\planning_main.dir\\process.cpp.obj -c E:\\ugujvjgh\\process.cpp",
+  "file": "E:/ugujvjgh/process.cpp",
+  "output": "CMakeFiles/planning_main.dir/process.cpp.obj"
+}
+]
